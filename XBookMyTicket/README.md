@@ -1,8 +1,7 @@
 # bookmyticket-java
 Informatics Practices project on BookMyShow in Java|Netbeans.
 
-
-#Loading The Project
+# Loading The Project
 After downloading follow the steps to use the project:
 * Unzip the downloaded file
 * Open netbeans
@@ -10,9 +9,9 @@ After downloading follow the steps to use the project:
 * Import the unziped files
 * And you're good to go!
 
-#Bugs and Issues
+# Bugs and Issues
 Having some trouble? Make sure you contact me!
 
      
-#Copyright and License
+# Copyright and License
 This project doesn't have any  copyrights or license. Everyone has full authority to distribute the project.
